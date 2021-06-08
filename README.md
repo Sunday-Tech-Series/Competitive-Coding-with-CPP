@@ -30,6 +30,7 @@ It doesn't matter if you join our webinar live or you prefer to do it at your ow
 - [Algorithms](#algorithms)
 - [STL](#stl)
 - [Create Your Profile on HackerRank](#create-your-profile-on-hackerrank)
+- [Contest](#contest)
 
 ## General info
 - Competitive programming is a mind sport usually held over the Internet or a local network, involving participants trying to program according to provided specifications. Competitive programming is recognized and supported by several multinational software and Internet companies, such as Google and Facebook. There are several organizations who host programming competitions on a regular basis.
@@ -81,6 +82,7 @@ It doesn't matter if you join our webinar live or you prefer to do it at your ow
 
 ## Create Your Profile on HackerRank
 
+[Back to table of contents](#table-of-contents)
 
 
 ## Contest
