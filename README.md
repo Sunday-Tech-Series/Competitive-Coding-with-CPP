@@ -9,6 +9,8 @@ It doesn't matter if you join our webinar live or you prefer to do it at your ow
 - Webinar youtube link
 - Slide deck
 - [Whatsapp group chat](http://bit.ly/STS-1-WA)
+- [Online Compiler](https://www.onlinegdb.com/online_c++_compiler)
+- [Polling during session](https://www.menti.com/)
 
 > *You need to have a basic knowledge of C/C++ language. If not, don't worry. Learn more about it [here](https://www.youtube.com/watch?v=BS3mT0NgKzM).*  
 
