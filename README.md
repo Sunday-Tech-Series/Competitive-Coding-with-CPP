@@ -5,9 +5,9 @@
 ## Materials for the Session
 
 It doesn't matter if you join our webinar live or you prefer to do it at your own pace, we have you covered. In this repository, you'll find everything you need.
-<!--./slides.pdf-->
-- [Webinar youtube link](#)
-- [Slide deck](#)
+
+- Webinar youtube link
+- Slide deck
 - [Whatsapp group chat](http://bit.ly/STS-1-WA)
 
 > *You need to have a basic knowledge of C/C++ language. If not, don't worry. Learn more about it [here](https://www.youtube.com/watch?v=BS3mT0NgKzM).*  
@@ -20,23 +20,78 @@ It doesn't matter if you join our webinar live or you prefer to do it at your ow
 > ***Note:** The Registration of the participants will be validated before providing them with the certificates.*
 
 ## Table of Contents
+- [General info](#general-info)
+- [Basic Input Output](#basic-input-output) <!-- - [Interactive Console](#interactive-console) - [Text Streams](#text-streams)-->
+- [Datatypes](#datatypes)
+- [Operators](#operators)
+- [Control Statements](#control-statements)
+- [Arrays](#arrays)
+- [Space Time Complexity](#space-time-complexity)
+- [Algorithms](#algorithms)
+- [STL](#stl)
+- [Create Your Profile on HackerRank](#create-your-profile-on-hackerrank)
 
-1. [Basic Input Output](#)
-2. [Datatypes](#)
-3. [Operators](#)
-4. [Control Statements](#)
-5. [Arrays](#)
-6. [Space Time Complexity](#)
-7. [Algorithms](#)
-8. [STL](#)
-9. [Create Your Profile on HackerRank](#)
+## General info
+- Competitive programming is a mind sport usually held over the Internet or a local network, involving participants trying to program according to provided specifications. Competitive programming is recognized and supported by several multinational software and Internet companies, such as Google and Facebook. There are several organizations who host programming competitions on a regular basis.
+- Focus of the webinar is to emphasize on the importance of Competitive Coding. That is:
+  1. Practicing it makes you a better coder who learns to solve questions with ease.
+  2. Trains our mind to be more focused and think faster.
+  3. Improves logic-based thinking.
+  4. Inculcate the habit of learning.
+  5. Gives an edge in the technical interviews of big companies like Google, Microsoft, Yahoo! etc. 
+## Basic Input Output
+
+[Back to table of contents](#table-of-contents)
+
+
+## Datatypes
+
+[Back to table of contents](#table-of-contents)
+
+
+## Operators
+
+[Back to table of contents](#table-of-contents)
+
+
+## Control Statements
+
+[Back to table of contents](#table-of-contents)
+
+
+## Arrays
+
+[Back to table of contents](#table-of-contents)
+
+
+## Space Time Complexity
+
+[Back to table of contents](#table-of-contents)
+
+
+## Algorithms
+
+[Back to table of contents](#table-of-contents)
+
+
+## STL
+
+[Back to table of contents](#table-of-contents)
+
+
+## Create Your Profile on HackerRank
+
+
 
 ## Contest
 
 We have a small contest planned for you. This will help you practice and implement the learnings from the session. 
 
-The contest will be of 45 mins in which you will have to solve just 3 questions. The contest will hosted on HackerRank and the link for the same will be shared at the end of the webinar. 
+The contest will be of 45 mins in which you will have to give solutions for just 3 problems. The contest will be hosted on HackerRank and the link for the same will be shared at the end of the webinar.
+> _**Important:** The top rank holders of the leaderboard will be awarded by some exciting prizes!_
+
+The winners will be announced according to the leaderboard, next week _i.e._, 20th June'21 in our next session.
 
 ##  The End
 
-> The repository will get updated during the session.
+> _**The repository will get updated during the session.**_
